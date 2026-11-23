@@ -9,11 +9,10 @@ Bu Depo, GitHub'ı öğrenirken oluşturduğum ilk depo.
 
 - **Bölüm:** 
 
-https://github.com/user-attachments/assets/7b7ea552-a162-42ac-9a2a-2d946a256b0e
-
 
   
 - **En çok merak ettiğim konu:**
+- https://github.com/user-attachments/assets/7b7ea552-a162-42ac-9a2a-2d946a256b0e
 
 ##Bu depoda neler var?
 -[ilk programım](kodlar/merhaba.py)
