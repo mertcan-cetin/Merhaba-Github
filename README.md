@@ -7,7 +7,11 @@ Bu Depo, GitHub'ı öğrenirken oluşturduğum ilk depo.
 
 ## Hakkımda 
 
-- **Bölüm:**
+- **Bölüm:** 
+
+https://github.com/user-attachments/assets/7b7ea552-a162-42ac-9a2a-2d946a256b0e
+
+
   
 - **En çok merak ettiğim konu:**
 
