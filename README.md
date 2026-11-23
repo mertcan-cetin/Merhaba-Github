@@ -8,7 +8,7 @@ Bu Depo, GitHub'ı öğrenirken oluşturduğum ilk depo.
 ## Hakkımda 
 
 - **Bölüm:** 
-
+         Sakarya Üniversitesi Bilgisayar Mühendisliği
 
   
 - **En çok merak ettiğim konu:**
